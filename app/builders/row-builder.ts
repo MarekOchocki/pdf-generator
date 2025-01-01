@@ -53,6 +53,6 @@ export class RowBuilder {
 
   private isValidDayNumber(dayNumber: number, monthIndex: number): boolean {
     const maxDay = new Date(this.config.year, monthIndex+1, 0).getDate();
-    return dayNumber < maxDay && dayNumber > 0;
+    return dayNumber <= maxDay && dayNumber > 0;
   }
 }
