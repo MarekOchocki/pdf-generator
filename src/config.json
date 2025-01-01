@@ -1,0 +1,348 @@
+{
+  "categories": [
+      {
+          "name": "birthdays",
+          "days": [
+              {
+                  "date": "2025-01-31",
+                  "description": "Urodziny Maćka"
+              },
+              {
+                  "date": "2025-02-13",
+                  "description": "Urodziny Madzi"
+              },
+              {
+                  "date": "2025-03-24",
+                  "description": "Urodziny Magdy z Klubiku"
+              },
+              {
+                  "date": "2025-04-29",
+                  "description": "Urodziny Natalki z Klubiku"
+              },
+              {
+                  "date": "2025-05-08",
+                  "description": "Urodziny taty Madzi"
+              },
+              {
+                  "date": "2025-06-08",
+                  "description": "Urodziny Mariusza"
+              },
+              {
+                  "date": "2025-06-26",
+                  "description": "Urodziny mamy Madzi"
+              },
+              {
+                  "date": "2025-07-12",
+                  "description": "Urodziny Tosi"
+              },
+              {
+                  "date": "2025-07-15",
+                  "description": "Urodziny Kary"
+              },
+              {
+                  "date": "2025-07-17",
+                  "description": "Urodziny Krzyśka"
+              },
+              {
+                  "date": "2025-07-27",
+                  "description": "Urodziny Moniki"
+              },
+              {
+                  "date": "2025-09-18",
+                  "description": "Urodziny Marcela"
+              },
+              {
+                  "date": "2025-09-21",
+                  "description": "Urodziny Mai"
+              },
+              {
+                  "date": "2025-10-05",
+                  "description": "Urodziny Kamila"
+              },
+              {
+                  "date": "2025-10-19",
+                  "description": "Urodziny Majusia"
+              },
+              {
+                  "date": "2025-10-31",
+                  "description": "Urodziny Kasi"
+              },
+              {
+                  "date": "2025-11-04",
+                  "description": "Urodziny Pauli"
+              },
+              {
+                  "date": "2025-11-09",
+                  "description": "Urodziny Izy"
+              },
+              {
+                  "date": "2025-11-11",
+                  "description": "Urodziny Kasi"
+              },
+              {
+                  "date": "2025-11-17",
+                  "description": "Urodziny Gosi"
+              },
+              {
+                  "date": "2025-12-04",
+                  "description": "Urodziny Werci"
+              }
+          ],
+          "config": {
+              "underlineColor": "#3b583d"
+          }
+      },
+      {
+          "name": "name day",
+          "days": [
+              {
+                  "date": "2025-05-04",
+                  "description": "Imieniny Moniki"
+              },
+              {
+                  "date": "2025-12-04",
+                  "description": "Barbórka"
+              },
+              {
+                  "date": "2025-07-16",
+                  "description": "Imieniny Babci Madzi"
+              }
+          ],
+          "config": {
+              "underlineColor": "#3b583d"
+          }
+      },
+      {
+          "name": "normal fucking Sunday",
+          "days": [
+              "2025-01-26",
+              "2025-04-13",
+              "2025-04-27",
+              "2025-06-29",
+              "2025-08-31",
+              "2025-12-14",
+              "2025-12-21"
+          ],
+          "config": {}
+      },
+      {
+          "name": "non working public holidays",
+          "days": [
+              {
+                  "date": "2025-01-01",
+                  "description": "Nowy Rok"
+              },
+              {
+                  "date": "2025-01-06",
+                  "description": "Święto Trzech Króli"
+              },
+              {
+                  "date": "2025-04-20",
+                  "description": "Wielkanoc"
+              },
+              {
+                  "date": "2025-04-21",
+                  "description": "Poniedziałek Wielkanocny"
+              },
+              {
+                  "date": "2025-05-01",
+                  "description": "Święto Pracy"
+              },
+              {
+                  "date": "2025-05-03",
+                  "description": "Święto Konstytucji 3 maja"
+              },
+              {
+                  "date": "2025-06-08",
+                  "description": "Zesłanie Ducha Świętego"
+              },
+              {
+                  "date": "2025-06-09",
+                  "description": "Boże Ciało"
+              },
+              {
+                  "date": "2025-08-15",
+                  "description": "Wniebowzięcie Najświętszej Maryi Panny"
+              },
+              {
+                  "date": "2025-11-01",
+                  "description": "Wszystkich Świętych"
+              },
+              {
+                  "date": "2025-11-11",
+                  "description": "Święto Niepodległości"
+              },
+              {
+                  "date": "2025-12-24",
+                  "description": "Wigilia"
+              },
+              {
+                  "date": "2025-12-25",
+                  "description": "Boże Narodzenie"
+              },
+              {
+                  "date": "2025-12-26",
+                  "description": "Boże Narodzenie"
+              }
+          ],
+          "config": {
+              "backgroundColor": "#f6f4ea",
+              "underlineColor": "#99621e"
+          }
+      },
+      {
+          "name": "working public holidays",
+          "days": [
+              {
+                  "date": "2025-01-02",
+                  "description": "Dzień Ptysia"
+              },
+              {
+                  "date": "2025-01-13",
+                  "description": "Dzień Gumowej Kaczuszki"
+              },
+              {
+                  "date": "2025-01-21",
+                  "description": "Dzień Babci"
+              },
+              {
+                  "date": "2025-01-22",
+                  "description": "Dzień Dziadka"
+              },
+              {
+                  "date": "2025-01-31",
+                  "description": "Międzynarodowy Dzień Przytulania"
+              },
+              {
+                  "date": "2025-02-09",
+                  "description": "Międzynarodowy Dzień Pizzy"
+              },
+              {
+                  "date": "2025-02-14",
+                  "description": "Walentynki"
+              },
+              {
+                  "date": "2025-02-16",
+                  "description": "Tłusty Czwartek"
+              },
+              {
+                  "date": "2025-03-08",
+                  "description": "Dzień Kobiet"
+              },
+              {
+                  "date": "2025-03-11",
+                  "description": "Światowy Dzień Drzemki w Pracy"
+              },
+              {
+                  "date": "2025-03-14",
+                  "description": "Dzień liczby Pi"
+              },
+              {
+                  "date": "2025-03-22",
+                  "description": "Międzynarodowy Dzień Foki"
+              },
+              {
+                  "date": "2025-03-31",
+                  "description": "Światowy Dzień Backupu"
+              },
+              {
+                  "date": "2025-04-09",
+                  "description": "Światowy Dzień Gołębia"
+              },
+              {
+                  "date": "2025-05-26",
+                  "description": "Dzień Matki"
+              },
+              {
+                  "date": "2025-05-28",
+                  "description": "Światowy Dzień Hamburgera"
+              },
+              {
+                  "date": "2025-06-01",
+                  "description": "Dzień Dziecka"
+              },
+              {
+                  "date": "2025-06-23",
+                  "description": "Dzień Ojca"
+              },
+              {
+                  "date": "2025-07-12",
+                  "description": "Światowy Dzień Kebsika"
+              },
+              {
+                  "date": "2025-07-30",
+                  "description": "Międzynarodowy Dzień Serniczka"
+              },
+              {
+                  "date": "2025-09-07",
+                  "description": "Światowy Dzień Brody"
+              },
+              {
+                  "date": "2025-09-13",
+                  "description": "Dzień Programisty"
+              },
+              {
+                  "date": "2025-09-30",
+                  "description": "Dzień Chłopaka"
+              },
+              {
+                  "date": "2025-10-22",
+                  "description": "Dzień CAPS LOCKA"
+              },
+              {
+                  "date": "2025-12-24",
+                  "description": "Wigilia"
+              },
+              {
+                  "date": "2025-12-31",
+                  "description": "Sylwester"
+              }
+          ],
+          "config": {
+              "underlineColor": "#dbd5b2"
+          }
+      }
+  ],
+  "emptyDayConfig": {},
+  "weekDaysConfig": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+          "backgroundColor": "#f6f4ea"
+      },
+      {
+          "backgroundColor": "#f6f4ea"
+      }
+  ],
+  "borderColor": "#868686",
+  "borderWidth": 0.1,
+  "defaultDescriptionFontColor": "#523c40",
+  "monthNameFontColor": "#4d1d24",
+  "dayNames": [
+      "mon",
+      "tue",
+      "wed",
+      "thu",
+      "fri",
+      "sat",
+      "sun"
+  ],
+  "monthNames": [
+      "january",
+      "february",
+      "march",
+      "april",
+      "may",
+      "june",
+      "july",
+      "august",
+      "september",
+      "october",
+      "november",
+      "december"
+  ],
+  "year": 2025
+}
