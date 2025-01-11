@@ -123,7 +123,10 @@
               "2025-12-14",
               "2025-12-21"
           ],
-          "config": {}
+          "config": {
+            "underlineColor": "#7d6f86",
+            "dayDescription": "Niedziela Handlowa"
+          }
       },
       {
           "name": "non working public holidays",
@@ -222,7 +225,7 @@
                   "description": "Walentynki"
               },
               {
-                  "date": "2025-02-16",
+                  "date": "2025-02-27",
                   "description": "Tłusty Czwartek"
               },
               {
@@ -322,27 +325,27 @@
   "defaultDescriptionFontColor": "#523c40",
   "monthNameFontColor": "#4d1d24",
   "dayNames": [
-      "mon",
-      "tue",
-      "wed",
-      "thu",
-      "fri",
-      "sat",
-      "sun"
+      "pn",
+      "wt",
+      "śr",
+      "czw",
+      "pt",
+      "sob",
+      "ndz"
   ],
   "monthNames": [
-      "january",
-      "february",
-      "march",
-      "april",
-      "may",
-      "june",
-      "july",
-      "august",
-      "september",
-      "october",
-      "november",
-      "december"
+      "styczeń",
+      "luty",
+      "marzec",
+      "kwiecień",
+      "maj",
+      "czerwiec",
+      "lipiec",
+      "sierpień",
+      "wrzesień",
+      "październik",
+      "listopad",
+      "grudzień"
   ],
   "year": 2025
 }

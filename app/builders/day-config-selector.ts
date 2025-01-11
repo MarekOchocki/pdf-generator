@@ -36,7 +36,7 @@ export class DayConfigSelector {
     }
     return {
       ...category.config,
-      dayDescription: day.description
+      dayDescription: day.description ?? category.config.dayDescription
     };
   }
 
